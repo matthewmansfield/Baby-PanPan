@@ -85,22 +85,12 @@ As mentioned previously, this is software specifically designed to integrate mul
 Summation:
 Baby PanPan is an exciting opportunity for the Panera Bread Bakery Team to take the scattered software components and compile them into one useable system that will benefit overall operations. This executive summary has been produced to open the conversation about how we can bring technology together to make Panera as successful as possible and continue bringing in the dough!
 
-Find out more…
+Learn More:
 Main 		@ https://babypanpan.com 
 Technical 	@ https://github.com/matthewmansfield/Baby-PanPan
 GoFundMe 	@ https://www.gofundme.com/f/baby-panpan
-
-
-
-Cordially yours, 
-
-
-
-Matthew Mansfield
-
-Enclosures (1) – Matthew Mansfield Extended Resume 
-
-
+Origins 	@ https://matthewmansfield.me/blog/07/26/2019/baby-panpan/
+Author		@ https://matthewmansfield.me
 
 ---
 *#DadJokes ;)
